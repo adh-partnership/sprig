@@ -5,6 +5,9 @@
 [![Stability: Sustained](https://masterminds.github.io/stability/sustained.svg)](https://masterminds.github.io/stability/sustained.html)
 [![](https://github.com/Masterminds/sprig/workflows/Tests/badge.svg)](https://github.com/Masterminds/sprig/actions)
 
+**NOTE** This is a forked copy of the [sprig](https://github.com/Masterminds/sprig) library for the purposes of bumping dependencies. The original
+appears to be abandoned, and we needed to bump dependencies.... so here we are.
+
 The Go language comes with a [built-in template
 language](http://golang.org/pkg/text/template/), but not
 very many template functions. Sprig is a library that provides more than 100 commonly

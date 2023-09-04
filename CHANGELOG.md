@@ -1,5 +1,9 @@
 # Changelog
 
+## Release 3.2.4 (2023-09-04)
+
+- Bumped dependencies only
+
 ## Release 3.2.3 (2022-11-29)
 
 ### Changed
