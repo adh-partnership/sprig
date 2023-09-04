@@ -1,6 +1,6 @@
 # Changelog
 
-## Release 3.2.4 (2023-09-04)
+## Release 3.2.3-patch1 (2023-09-04)
 
 - Bumped dependencies only
 
